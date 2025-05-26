@@ -78,7 +78,7 @@ This project is used by the following components:
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/rahadhasan666/wifi-jammer/blob/main/LICENSE)
 
 
 ## Appendix
