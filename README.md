@@ -43,7 +43,7 @@ Go to the project directory
 Exicute
 
 ```bash
- sudo chmod +x jamer.sh
+ sudo chmod +x jamer.sh on.sh
 ```
 
 Start Jammer
