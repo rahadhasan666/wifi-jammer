@@ -33,6 +33,11 @@ Clone the project
 ```bash
   git clone https://github.com/rahadhasan666/wifi-jammer.git
 ```
+Requerments
+
+```bash
+  sudo apt install xterm -y
+```
 
 Go to the project directory
 
